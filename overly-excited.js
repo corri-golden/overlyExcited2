@@ -14,14 +14,14 @@ function addExcitement (theWordArray) {
             // Print buildMeUp to the console
             
          if (i % 3 == 2){
-            console.log(buildMeUp += "!");
+            console.log(buildMeUp += "?");
         } 
         }
     }
  //addExcitement(sentence), "?";
     // buildMeUp += theWordArray[i] + " "
 // I want to use a question mark
- addExcitement(sentence), "!";
+ addExcitement(sentence), "?";
 
  //else {
     //console.log(buildMeUp += theWordArray[i] + "?");
