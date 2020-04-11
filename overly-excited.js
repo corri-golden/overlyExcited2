@@ -21,7 +21,7 @@ addExcitement = (theWordArray, punc) => {
         }
     }
  //addExcitement(sentence), "?";
-    // buildMeUp += theWordArray[i] + " "
+    
 // I want to use a question mark
  addExcitement(sentence, "!!!");
 
